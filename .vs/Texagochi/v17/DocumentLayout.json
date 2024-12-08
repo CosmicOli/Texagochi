@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\c#\\Texagochi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|c:\\programming\\c#\\texagochi\\texagochi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|solutionrelative:texagochi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|c:\\programming\\c#\\texagochi\\texagochi\\tex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|solutionrelative:texagochi\\tex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|c:\\programming\\c#\\texagochi\\texagochi\\player handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|solutionrelative:texagochi\\player handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|c:\\programming\\c#\\texagochi\\texagochi\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E164536D-9C1D-4DA8-BDAE-676C3E97BA3C}|Texagochi\\Texagochi.csproj|solutionrelative:texagochi\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tex.cs",
+              "DocumentMoniker": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Tex.cs",
+              "RelativeDocumentMoniker": "Texagochi\\Tex.cs",
+              "ToolTip": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Tex.cs",
+              "RelativeToolTip": "Texagochi\\Tex.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:58:45.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player Handler.cs",
+              "DocumentMoniker": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Player Handler.cs",
+              "RelativeDocumentMoniker": "Texagochi\\Player Handler.cs",
+              "ToolTip": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Player Handler.cs",
+              "RelativeToolTip": "Texagochi\\Player Handler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCoAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:56:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Player.cs",
+              "RelativeDocumentMoniker": "Texagochi\\Player.cs",
+              "ToolTip": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Player.cs",
+              "RelativeToolTip": "Texagochi\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:56:32.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Program.cs",
+              "RelativeDocumentMoniker": "Texagochi\\Program.cs",
+              "ToolTip": "C:\\Programming\\c#\\Texagochi\\Texagochi\\Program.cs",
+              "RelativeToolTip": "Texagochi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:28:51.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
